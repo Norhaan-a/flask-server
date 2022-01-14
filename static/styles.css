@@ -10,3 +10,7 @@ a {
 a:hover {
   font-weight: bold;
 }
+
+body {
+  background-color: cadetblue;
+}
